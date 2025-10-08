@@ -1,0 +1,36 @@
+{
+  "745550120816476231": {
+    "id": "745550120816476231",
+    "name": "deluzi",
+    "hp": 70,
+    "atk": 13,
+    "level": 9,
+    "exp": 0,
+    "gold": 171
+  },
+  "1197039697822752858": {
+    "id": "1197039697822752858",
+    "name": "uminideluzi_28461",
+    "hp": 30,
+    "atk": 5,
+    "level": 1,
+    "exp": 0,
+    "gold": 0
+  },
+  "MTQyNTE5MjgwMzg4OTMxNTg4Mg.iYalYHRYRpYwBkGutGsSZe85jQUXgq": {
+    "name": "Adventurer",
+    "hp": 30,
+    "atk": 5,
+    "level": 1,
+    "exp": 0,
+    "gold": 0
+  },
+  "MTQyNTE5MjgwMzg4OTMxNTg4Mg.8aD05goYSRZdZ2LM5QzvSuwslKtiTq": {
+    "name": "Adventurer",
+    "hp": 30,
+    "atk": 5,
+    "level": 1,
+    "exp": 0,
+    "gold": 0
+  }
+}

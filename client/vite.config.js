@@ -4,6 +4,9 @@ import {defineConfig} from 'vite';
 export default defineConfig({
   envDir: '../',
   server: {
+    allowedHosts: [
+      'wallpaper-potter-forge-goal.trycloudflare.com'
+    ],
     proxy: {
       '/api': {
         target: 'http://localhost:3001',
